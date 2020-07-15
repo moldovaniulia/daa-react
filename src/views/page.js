@@ -10,7 +10,7 @@ const Page = (props) => {
         <title>daa</title>
         <meta property="og:title" content="daa" />
       </Helmet>
-      <h1>Heading</h1>
+      <h1 className={styles.text}>Heading</h1>
     </div>
   )
 }

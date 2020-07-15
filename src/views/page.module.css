@@ -4,6 +4,10 @@
   overflow: auto;
   min-height: 100vh;
   align-items: center;
+  font-family: Arial;
   flex-direction: column;
   justify-content: flex-start;
+}
+.text {
+  font-family: Impact;
 }
